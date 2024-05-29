@@ -1,0 +1,11 @@
+.grafismo::before {
+  content: "";
+  width: 215px;
+  height: 254px;
+  display: block;
+  background: url("/assets/grafismo-roxo-small.png") no-repeat top;
+  background-size: contain;
+  top: 0;
+  position: absolute;
+  z-index: 10;
+}
